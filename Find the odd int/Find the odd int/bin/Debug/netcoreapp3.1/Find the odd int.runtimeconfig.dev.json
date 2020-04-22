@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lekss\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lekss\\.nuget\\packages"
+    ]
+  }
+}

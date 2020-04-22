@@ -1,0 +1,12 @@
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.exe
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.deps.json
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.runtimeconfig.json
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.runtimeconfig.dev.json
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.dll
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.pdb
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.CoreCompileInputs.cache
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.AssemblyInfoInputs.cache
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.AssemblyInfo.cs
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.dll
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.pdb
+C:\Users\lekss\source\repos\Find the odd int\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.genruntimeconfig.cache
