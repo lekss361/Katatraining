@@ -1,0 +1,13 @@
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\bin\Debug\netcoreapp3.1\kata Multiples of 3 or 5.exe
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\bin\Debug\netcoreapp3.1\kata Multiples of 3 or 5.deps.json
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\bin\Debug\netcoreapp3.1\kata Multiples of 3 or 5.runtimeconfig.json
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\bin\Debug\netcoreapp3.1\kata Multiples of 3 or 5.runtimeconfig.dev.json
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\bin\Debug\netcoreapp3.1\kata Multiples of 3 or 5.dll
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\bin\Debug\netcoreapp3.1\kata Multiples of 3 or 5.pdb
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.csprojAssemblyReference.cache
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.csproj.CoreCompileInputs.cache
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.AssemblyInfoInputs.cache
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.AssemblyInfo.cs
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.dll
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.pdb
+C:\Users\lekss\source\repos\kata Multiples of 3 or 5\kata Multiples of 3 or 5\obj\Debug\netcoreapp3.1\kata Multiples of 3 or 5.genruntimeconfig.cache
