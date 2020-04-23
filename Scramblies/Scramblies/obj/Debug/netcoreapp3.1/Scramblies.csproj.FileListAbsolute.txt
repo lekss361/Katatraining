@@ -1,0 +1,13 @@
+E:\C#\Scramblies\Scramblies\bin\Debug\netcoreapp3.1\Scramblies.exe
+E:\C#\Scramblies\Scramblies\bin\Debug\netcoreapp3.1\Scramblies.deps.json
+E:\C#\Scramblies\Scramblies\bin\Debug\netcoreapp3.1\Scramblies.runtimeconfig.json
+E:\C#\Scramblies\Scramblies\bin\Debug\netcoreapp3.1\Scramblies.runtimeconfig.dev.json
+E:\C#\Scramblies\Scramblies\bin\Debug\netcoreapp3.1\Scramblies.dll
+E:\C#\Scramblies\Scramblies\bin\Debug\netcoreapp3.1\Scramblies.pdb
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.csprojAssemblyReference.cache
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.csproj.CoreCompileInputs.cache
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.AssemblyInfoInputs.cache
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.AssemblyInfo.cs
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.dll
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.pdb
+E:\C#\Scramblies\Scramblies\obj\Debug\netcoreapp3.1\Scramblies.genruntimeconfig.cache

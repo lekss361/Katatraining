@@ -1,0 +1,13 @@
+E:\C#\Sort the odd\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.exe
+E:\C#\Sort the odd\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.deps.json
+E:\C#\Sort the odd\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.runtimeconfig.json
+E:\C#\Sort the odd\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.runtimeconfig.dev.json
+E:\C#\Sort the odd\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.dll
+E:\C#\Sort the odd\Sort the odd\bin\Debug\netcoreapp3.1\Sort the odd.pdb
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.csprojAssemblyReference.cache
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.csproj.CoreCompileInputs.cache
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.AssemblyInfoInputs.cache
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.AssemblyInfo.cs
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.dll
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.pdb
+E:\C#\Sort the odd\Sort the odd\obj\Debug\netcoreapp3.1\Sort the odd.genruntimeconfig.cache
